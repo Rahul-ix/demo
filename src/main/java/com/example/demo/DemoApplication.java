@@ -11,8 +11,12 @@ public class DemoApplication {
        int z=0;       
        boolean=true;
        String s="name";
-int x=10;
+
+        int x=10;
 	int y=20;
+	int z=0;       
+       boolean=true;
+       String s="name";
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
