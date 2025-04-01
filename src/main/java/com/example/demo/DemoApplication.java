@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
+	int x=10;
+	int y=20;
 
 boolean=true;
 String s="name";
