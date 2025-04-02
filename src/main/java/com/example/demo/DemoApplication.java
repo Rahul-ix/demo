@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 public class ForLoopExample {
+	sksns
+	ss ,s ,
     public static void main(String[] args) {
         // Print numbers from 1 to 10
         for (int i = 1; i <= 10; i++) {
@@ -14,9 +16,21 @@ public class ForLoopExample {
     }
 }
 
-
+slsms
+	s
+	s,ss,
+	s,
+	s,
+	,s
+	,ss,
+	s,,alsjl
         int x=10;
 	int y=20;
+	ss
+	ssmsmsns s
+	slslmslms
+
+	ssksnks
 public class ForLoopExample {
     public static void main(String[] args) {
         // Print numbers from 1 to 10
